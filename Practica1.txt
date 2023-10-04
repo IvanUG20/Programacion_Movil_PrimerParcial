@@ -1,0 +1,18 @@
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main() {
+    print("Hello UPIICSA!!!")
+    print(",Esta es la Practica 1")
+    
+    println("Programacion Web")
+    println("Practica 1")
+    println("Urbano Granados Ivan")
+    println("Hello UPIICSA!!!")
+    /**
+     * el println da un salto de pagina con cada linea de código nuevo y el print 
+escribe todo lo que este en print en una misma linea, ósea sin dar el salto
+*/
+
+}
